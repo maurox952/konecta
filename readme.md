@@ -3,7 +3,7 @@
 _Prueba de practica de entrevista Konecta_
 
 ## Pasos para correr el proyecto 🚀
-* Clonar el proyecto en su servidor local (Xampp - wampp)
+* Clonar el proyecto en su servidor local (Xampp - wampp) https://github.com/maurox952/konecta.git
 * Nombrar la carpeta konecta
 * Importar la base de datos konecta que se encuentra en la carpeta bd
 * el proyecto se inicia por el archivo index.php
